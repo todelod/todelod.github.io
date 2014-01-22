@@ -1,5 +1,9 @@
-# todelod.github.io
+todelod.github.io
+=================
 
-[Home](home.md)
-[About](about.md)
-[Linux](linux.md)
+Blog
+----
+
+  * list item 1
+  * list item 2
+  
