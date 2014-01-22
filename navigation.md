@@ -1,5 +1,5 @@
 # todelod.github.io
 
-[Home](home.md)
+[Home](index.md)
 [About](about.md)
 [Linux](linux.md)
