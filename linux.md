@@ -51,6 +51,19 @@ sudo rpm -qa
 sudo rpm -r codium-1.40.0-1573156686.el7.x86_64
 ```
 
+### Chrome
+
+```bash  
+sudo rpm -qa
+
+sudo rpm -e google-chrome-stable-77.0.3865.120-1.x86_64
+
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+
+sudo rpm -ivh --nodeps google-chrome-stable_current_x86_64.rpm
+```
+
+
 Smokeping
 ---------
 
