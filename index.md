@@ -2,6 +2,9 @@
 ==================================================================================
 
 [Linux snippets](linux.md)
-[Clear linux snippets](clearlinux-snippets.md)
+
+##Clear linux snippets
+
+[update chrome](clearlinux/update-chrome.md)
 
 Sweden
