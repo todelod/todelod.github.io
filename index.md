@@ -6,5 +6,6 @@
 ##Clear linux snippets
 
 [update chrome](clearlinux/update-chrome.md)
+[update vscodium](clearlinux/update-vscodium.md)
 
 Sweden
