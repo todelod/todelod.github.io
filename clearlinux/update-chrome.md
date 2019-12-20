@@ -4,6 +4,8 @@ Clear linux
 Update chrome
 -------------
 
+creadits to: Randy R. Rouch
+
 ```bash
 
 #!/bin/bash
