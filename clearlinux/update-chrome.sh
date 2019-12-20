@@ -1,15 +1,3 @@
-Clear linux
-===========
-
-Update chrome
--------------
-
-credits to: Randy R. Rouch
-
-[download](update-chrome.sh)
-
-```bash
-
 #!/bin/bash
 
 clear
@@ -41,18 +29,3 @@ fi
 printf "\n"
 echo Press a key...
 read -n1
-
-```
-
-and a update_chrome.desktop in ~/.local/share/applications
-
-```
-
-[Desktop Entry]
-Type=Application
-Name=update-chrome
-Exec=/home/tord/.local/bin/update-chrome.sh
-StartupNotify=false
-Terminal=true
-
-```
