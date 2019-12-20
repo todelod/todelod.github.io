@@ -2,5 +2,6 @@
 ==================================================================================
 
 [Linux snippets](linux.md)
+[Clear linux snippets](clearlinux-snippets.md)
 
 Sweden
