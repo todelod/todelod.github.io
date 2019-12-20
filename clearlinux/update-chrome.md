@@ -1,8 +1,5 @@
-Clear linux
-===========
-
 Update chrome
--------------
+=============
 
 credits to: Randy R. Rouch
 
